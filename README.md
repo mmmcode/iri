@@ -21,5 +21,5 @@ containing the texts.
   
 # Data
 **Khamenei_Complete.CSV**
-- Texts scraped from the 'speeches'-section of the official English-speaking website of Ali Khamenei.
+- Texts scraped from the 'speeches'-section of the official English-speaking website of Ali Khamenei (1974 - March 2021)
 - Empty cases eliminated and date format unified.
