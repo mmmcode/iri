@@ -23,7 +23,3 @@ containing the texts.
 **Khamenei_Complete.CSV**
 - Texts scraped from the 'speeches'-section of the official English-speaking website of Ali Khamenei.
 - Empty cases eliminated and date format unified.
-  
-**Khamenei_Subset_1990_2021.CSV**
-- Subset of the collected texts (1990 to 2021).
-- Pre-Processed (Lower casing).
