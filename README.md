@@ -8,14 +8,12 @@ containing the texts.
 **Scraping_Script.R**
 - Code used for scraping the official English-speaking website of Ali Khamenei with 'RSelenium' und 'Docker'.
 
-**Dictionaries_Script.R**
-- Dictionaries specifically created for analyzing anti-Semitic content on Khamenei's website.
+**Dictionary_Script.R**
+- Creation of dictionaries with kwic-function and random sampling of texts
 
 **Analyzing_Script.R**
-- Code for analyzing the texts with predefinied problem-specific dictionaries.
-
-**Visualizing_Script.R**
-- Code for visualizing the results of the dictionary-analysis (prevalence over decades/year, quotes).
+- Code for analyzing the texts with a predefinied dictionary-function and visualizing the results of the analysis.
+- Contains the final dictionaries specifically created for analyzing anti-Semitic motives on Khamenei's website.
   
 # Data
 **Khamenei_Complete.csv**
