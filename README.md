@@ -7,7 +7,6 @@ containing the texts.
 # Scripts
 **Scraping_Script.R**
 - Scraping the official English-speaking website of Ali Khamenei using 'RSelenium' und 'Docker'.
-- Can be applied to scrape other websites as well.
 
 **Dictionaries_Script.R**
 - Contains dictionaries specifically created for analyzing anti-Semitic content on Khamenei's website.
