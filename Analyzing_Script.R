@@ -24,7 +24,7 @@ speech_df$text = tolower(speech_df$text)
 speech_df$Year = str_extract(as.character(speech_df$date), "....")
 speech_df$Month =str_extract(as.character(speech_df$date), "(?<=-)..")
 speech_df = subset(speech_df, as.character(speech_df$Year) > 1989)
-# Subset to Years past 1990 (for analysis)
+# Subset to Years past 1990 (final analysis)
 # speech_df$decade = factor(paste0(substring(speech_df$Year, 3,3), "0s"),
 #                          levels = c("90s","00s","10s","20s"))
 # speech_df = subset(speech_df, !is.na(speech_df$date))
