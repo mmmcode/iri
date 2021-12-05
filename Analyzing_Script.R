@@ -62,7 +62,7 @@ head(kwic_israel_k, 20)
 
 kwic_jew_k = kwic(kha_corp, pattern = "jew*", window = 10)
 head(kwic_jew_k, 20)
-# Detected "faith was a precious | jewel  |" -> Reason why I use "(^| )jew[si.-]" for sampling and further analyses
+# Detected "faith was a precious | jewel  |" -> thus, a regular expression "(^| )jew[si.-]" is used for sampling and further analyses.
 
 kwic_moss_k = kwic(kha_corp, pattern = "mossad", window = 10)
 head(kwic_moss_k, 20)
