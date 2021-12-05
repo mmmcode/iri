@@ -9,7 +9,7 @@ containing the texts.
 - Code used for scraping the official English-speaking website of Ali Khamenei with 'RSelenium' und 'Docker'.
 
 **Dictionary_Script.R**
-- Creation of dictionaries with kwic-function and random sampling of texts
+- Creation of dictionaries with kwic-function and random sampling of texts.
 
 **Analyzing_Script.R**
 - Code for analyzing the texts with a predefinied dictionary-function and visualizing the results of the analysis.
