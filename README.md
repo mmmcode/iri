@@ -1,6 +1,6 @@
 # Scraping / Analyzing / Visualizing 'english.khamenei.ir'
 
-The repository contains the scripts for scraping and analyzing the speeches of Ali Khamenei and the text data set. 
+TThe repository contains the scripts for scraping and analyzing the speeches of Ali Khamenei and the collected speeches data set.
 
 # Scripts
 **Scraping_Script.R**
