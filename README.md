@@ -18,6 +18,6 @@ containing the texts.
 - Code for visualizing the results of the dictionary-analysis (prevalence over decades/year, quotes).
   
 # Data
-**Khamenei_Complete.CSV**
+**Khamenei_Complete.csv**
 - Texts scraped from the 'speeches'-section of the official English-speaking website of Ali Khamenei (1974 - March 2021)
 - Empty cases eliminated and date format unified.
