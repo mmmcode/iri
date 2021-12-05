@@ -1,7 +1,7 @@
 # Scraping / Analyzing / Visualizing 'english.khamenei.ir'
 
 This repository contains the scripts that were used for scraping and analyzing the speeches of 
-Ali Khamenei, current supreme leader of the Islamic Republic of Iran, as well as two data sets
+Ali Khamenei, current supreme leader of the Islamic Republic of Iran, as well as the data set
 containing the texts.
 
 # Scripts
